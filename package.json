@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "check": "biome check",
+    "fix": "biome check --fix",
+    "js": "node test.js",
+    "java": "java Test.java",
+    "py": "python3 test.py"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4"
+  }
+}
